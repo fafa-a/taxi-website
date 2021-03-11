@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: "Monaco";
+    font-style: normal;
+    font-weight: normal;
+    src: url("~assets/fonts/Monaco.woff") format("woff");
+  }
+}
