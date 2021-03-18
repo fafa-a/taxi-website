@@ -1,6 +1,6 @@
 # taxi-website
 
-![homepage screenshot](./assets/img/homepage.png 'hompage screenshot')
+![homepage screenshot](./assets/img/homepage.png 'hompage screenshot'){width: 100%}
 
 The project is a static page for a taxicabs in Toulouse.  
 I made this with nuxtjs, and tailwindcss.  
