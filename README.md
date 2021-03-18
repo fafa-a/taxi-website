@@ -1,20 +1,8 @@
 # taxi-website
 
-## Build Setup
+![homepage screenshot](./assets/img/homepage.png 'hompage screenshot')
 
-```bash
-# install dependencies
-$ yarn install
-
-# serve with hot reload at localhost:3000
-$ yarn dev
-
-# build for production and launch server
-$ yarn build
-$ yarn start
-
-# generate static project
-$ yarn generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+The project is a static page for a taxicabs in Toulouse.  
+I made this with nuxtjs, and tailwindcss.  
+The main fonctionnality is the reservation mail and the course geocalisation.  
+Is under construction "http://sgtaxitoulouse.fr".
